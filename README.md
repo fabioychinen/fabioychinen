@@ -3,7 +3,7 @@
 Desenvolvedor Mobile 
 
 **Sobre** 
-Meu nome é Fabio, estou atualmente migrando para a área de TI. 
+Fabio, estou atualmente migrando para a área de TI. 
 sou formado pela Universidade Cruzeiro do Sul em Análise 
 e Desenvolvimento de sistemas e atualmente terminei a pós graduação
 na mesma instituição em ciência de dados.
