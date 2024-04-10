@@ -2,7 +2,7 @@
 
 **Sobre mim:** 
 Sou formado pela Universidade Cruzeiro do Sul em Análise 
-e Desenvolvimento de Sistemas e atualmente terminei a pós graduação
+e Desenvolvimento de Sistemas e pós graduado
 em Ciências de Dados, na mesma instituição.
 Estudo atualmente o framework Flutter,
 assim como também gosto de estudar sobre ciência de dados, machine learning
