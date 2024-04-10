@@ -2,9 +2,9 @@
 
 Desenvolvedor Mobile 
 
-**Sobre mim** 
-estou atualmente migrando para a área de TI. 
-sou formado pela Universidade Cruzeiro do Sul em Análise 
+**Sobre mim:** 
+Estou atualmente migrando para a área de TI. 
+Sou formado pela Universidade Cruzeiro do Sul em Análise 
 e Desenvolvimento de sistemas e atualmente terminei a pós graduação
 na mesma instituição em ciência de dados.
 Estudo atualmente o framework Flutter e gosto da linguagem Dart,
