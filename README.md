@@ -2,7 +2,7 @@
 
 Desenvolvedor Mobile 
 
-**Sobre Mim** 
+**Sobre mim** 
 estou atualmente migrando para a área de TI. 
 sou formado pela Universidade Cruzeiro do Sul em Análise 
 e Desenvolvimento de sistemas e atualmente terminei a pós graduação
