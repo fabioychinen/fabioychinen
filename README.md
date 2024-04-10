@@ -1,17 +1,15 @@
 **Fabio Yukio Chinen**
 
-Desenvolvedor Mobile 
-
 **Sobre mim:** 
-Estou atualmente migrando para a área de TI. 
 Sou formado pela Universidade Cruzeiro do Sul em Análise 
-e Desenvolvimento de sistemas e atualmente terminei a pós graduação
-na mesma instituição em ciência de dados.
-Estudo atualmente o framework Flutter e gosto da linguagem Dart,
+e Desenvolvimento de Sistemas e atualmente terminei a pós graduação
+em Ciências de Dados, na mesma instituição.
+Estudo atualmente o framework Flutter,
 assim como também gosto de estudar sobre ciência de dados, machine learning
-e análise de dados, utilizando Python ou excel.
+e análise de dados, utilizando Python ou Excel.
 Estou acostumado a trabalhar em equipe, graças às minhas experiências
 anteriores de trabalho.
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/fabio-yukio-chinen-76a43b23b)
